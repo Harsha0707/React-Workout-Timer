@@ -14,4 +14,4 @@ Open http://127.0.0.1:3000/ with your browser to see the result.
 
 # Deploy on Netlify
 
-The easiest way to deploy your app is to use the [Netlify](https://www.netlify.com/) is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.
+The easiest way to deploy your app is to use the [Netlify](https://www.netlify.com/) which provides essential platform for the delivery of exceptional and dynamic web experiences, without limitations.
